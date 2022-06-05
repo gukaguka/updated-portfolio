@@ -233,7 +233,7 @@ a {
 	  align-content: center;
   }
 	.projects{
-	width: 80%;
+	width: 200px;
 	}
   .background-image::before{
   		content: '';
