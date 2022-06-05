@@ -242,7 +242,7 @@ a {
   .background-image {
 	position: relative;
 	width: 100vw;
-	height: 50vh;
+	height: auto;
 	animation: breath 5s linear 1 normal forwards;
 	display: flex;
 	justify-content: center;
