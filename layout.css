@@ -228,6 +228,9 @@ a {
   .section{
   	display: flex;
   	flex-direction: column;
+	 width: 80%;
+	  justify-content: center;
+	  align-content: center;
   }
   .background-image::before{
   		content: '';
