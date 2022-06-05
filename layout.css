@@ -232,6 +232,9 @@ a {
 	  justify-content: center;
 	  align-content: center;
   }
+	.projects{
+	width: 80%;
+	}
   .background-image::before{
   		content: '';
 	position: absolute;
