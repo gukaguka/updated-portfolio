@@ -250,8 +250,13 @@ a {
 	text-align: center;
 	background-image: url(1625479852142.jpg);
 	background-repeat: no-repeat;
-	background-position:;
-	background-size: cover;
+	background-size:contain;
 
 }
+.welcome-text2{
+	font-size: 2em;
+  }
+  .welcome-text{
+	font-size: 2em;
+  }
   }
