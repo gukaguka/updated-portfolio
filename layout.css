@@ -232,6 +232,7 @@ a {
 	  justify-content: center;
 	  align-content: center;
   }
+	.header{font-size: 3em;}
 	.projects{
 	width: 200px;
 	}
